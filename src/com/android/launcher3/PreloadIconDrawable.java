@@ -22,7 +22,7 @@ class PreloadIconDrawable extends Drawable {
     private static final float MIN_LIGHTNESS = 0.6f;
 
     private static final float ICON_SCALE_FACTOR = 0.5f;
-    private static final int DEFAULT_COLOR = 0xFF009688;
+    private static final int DEFAULT_COLOR = 0xFF4285F4;
 
     private static final Rect sTempRect = new Rect();
 

@@ -22,7 +22,7 @@
          over the delete target or the info target -->
     <color name="delete_target_hover_tint">#FFC1C1C1</color>
     <color name="uninstall_target_hover_tint">#FFF0592B</color>
-    <color name="info_target_hover_tint">#FF009688</color>
+    <color name="info_target_hover_tint">#ff4285f4</color>
     <color name="cling_scrim_background">#80000000</color>
 
     <color name="focused_background">#80c6c5c5</color>
@@ -40,17 +40,15 @@
     <color name="outline_color">#FFFFFFFF</color>
 
     <!-- Containers -->
-    <color name="container_fastscroll_thumb_inactive_color">#009688</color>
-    <color name="container_fastscroll_thumb_active_color">#009688</color>
+    <color name="container_fastscroll_thumb_inactive_color">#4285f4</color>
+    <color name="container_fastscroll_thumb_active_color">#4285f4</color>
 
-    <color name="settings_header_text">#FF6cd2ea</color>
-    <color name="settings_bg_color">#FF485459</color>
     <color name="settings_bg_header_color">#FFb2b0ab</color>
     <color name="settings_bg_selected_color">#26000000</color>
     <color name="settings_transition_selected_color">#50000000</color>
 
     <!-- All Apps -->
-    <color name="all_apps_grid_section_text_color">#009688</color>
+    <color name="all_apps_grid_section_text_color">#4285f4</color>
     <color name="all_apps_grid_section_text_color_dark">#FFF</color>
     <color name="all_apps_search_market_button_focused_bg_color">#DDDDDD</color>
 
