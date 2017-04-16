@@ -22,6 +22,13 @@
     <!-- Left screen [1] -->
     <!-- Middle screen [2] -->
     <favorite
+        launcher:packageName="com.android.deskclock"
+        launcher:className="com.android.deskclock.DeskClock"
+        launcher:screen="2"
+        launcher:x="0"
+        launcher:y="3"
+        />
+    <favorite
         launcher:packageName="com.android.calendar"
         launcher:className="com.android.calendar.AllInOneActivity"
         launcher:screen="2"
