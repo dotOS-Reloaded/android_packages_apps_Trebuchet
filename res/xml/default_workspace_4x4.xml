@@ -21,8 +21,8 @@
 
     <!-- Clock Widget -->
     <appwidget
-        launcher:packageName="com.cyanogenmod.lockclock"
-        launcher:className="com.cyanogenmod.lockclock.ClockWidgetProvider"
+        launcher:packageName="uk.co.hassie.widget.pixelpill"
+        launcher:className="uk.co.hassie.widget.pixelpill.widget.PixelPill"
         launcher:screen="1"
         launcher:x="0"
         launcher:y="0"
